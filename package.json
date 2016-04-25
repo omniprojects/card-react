@@ -1,6 +1,6 @@
 {
-  "name": "card-react",
-  "version": "1.0.18",
+  "name": "omni-card-react",
+  "version": "1.0.0",
   "description": "Add an interactive credit card animation to your payment form.",
   "main": "lib/card-react-form-container.js",
   "dependencies": {
@@ -41,10 +41,10 @@
     "react",
     "component"
   ],
-  "author": "Shay Stern",
+  "author": "Jon Azoff",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shatran/card-react/issues"
+    "url": "https://github.com/omniprojects/card-react/issues"
   },
-  "homepage": "https://github.com/shatran/card-react"
+  "homepage": "https://github.com/omniprojects/card-react"
 }
