@@ -1,6 +1,6 @@
 {
   "name": "omni-card-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add an interactive credit card animation to your payment form.",
   "main": "lib/card-react-form-container.js",
   "dependencies": {
